@@ -190,4 +190,134 @@ Answers:
 
   =============================================================================================================================================================
   
+  Practice Question 6-1-1
+  Answers:
+  ** 1st Question**
+  1.As the gate voltage V_G is increased, the current flow from the drain to the source increases.
+  2.The mechanism for conduction in an n-type MOSFET is the creation of a channel of n-type material between the drain and the source for a positive value of gate voltage.
+  3.A MOSFET has four external connections: drain, source, gate, and substrate.
+  
+  Practice Question 6-2-1
+  Answers:
+  ** 1st Question**
+  1.  0
+  ** 2nd Question**
+  1.  5
+  
+  Practice Question 6-2-2
+  Answers:
+  ** 1st Question**
+  1.By combining a NMOS and PMOS, the CMOS circuit acts as a more ideal inverting switch.
+  2.When Vin=0V,Vout=5v,Also when Vin=5v,Vout=0v.
+  
+  Practice Question 6-3-1
+  Answers:
+  ** 1st Question**
+  1.The term "inversion" in a circuit made of transistors used as switches (more commonly called a digital circuit) means that low voltages become high and high voltages become low.
+  2.CMOS devices use both n-type and p-type transistors in a complementary manner to achieve closer to ideal switching.
+  3.A transistor can be used as an electrically-controlled switch.
+
+ 
+  Practice Question 6-3-2
+  Answers:
+  ** 1st Question**
+  1.  0
+  ** 2nd Question**
+  1.  5
+
+  Practice Question 6-3-3
+  Answers:
+  ** 1st Question**
+  1. NAND 
+
+  Practice Question 6-3-4
+  Answers:
+  ** 1st Question**
+  1.  0
+  
+   Practice Question 6-4-1
+  Answers:
+  ** 1st Question**  **"ecxept this answer all are correct"**
+  1. A MOSFET is used as an amplifier when it is operating in its linear region.
+   
+    
+  Practice Question 6-5-1
+  Answers:
+  ** 1st Question** 
+  1. linear and triode
+   ** 2nd Question**
+  1.  1.29
+  ** 3rd Question**
+  1.  15.04
+
+  
+  Practice Question 6-6-1
+  Answers:
+  ** 1st Question** 
+  1.  -8.73
+  ** 2nd Question**
+  1.  1.87
+  ** 3rd Question**
+  1.  -11.22
+ ** 4th Question**
+ 1.  -5.79
+  ** 5th Question**
+  1.  0
+**WEEK 6 QUIZ ANSWERS:**
+[WEEK 6 QUIZ.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Elcetronics-Coursera/files/6095713/WEEK.6.QUIZ.pdf)
+==================================================================================================================================================================
+
+  Practice Question 7-1-1
+  Answers:
+  ** 1st Question**
+  1. In an NPN transister the base composed of p type material.
+  2. For the npn bjt, the base current plus, the collecter current is equal to the emmitter current.
+  
+  Practice Question 7-2-1
+  Answers:
+  ** 1st Question**
+  1. 0.34
+
+  
+  Practice Question 7-2-2
+  Answers:
+  ** 1st Question**
+  1.An NPN BJT having Beta = 100 operated in the active region has a ratio of collector current to base current equal to 100.  
+  2.A line of constant collector-emitter voltage VCE plotted on a set of NPN BJT output characteristic curves is parallel to the IC axis. 
+
+  Practice Question 7-3-1
+  Answers:
+  ** 1st Question**
+  1. As the early voltage vA of an NPN transister is increased, the slope of the output charecteristic curve in the active region decreases.
+  2. An infinite early voltage implies that Ic does not vary with changes in Vce in the transister region when in the active region.
+  ** 2nd Question**
+  0.762
+  
+  Practice Question 7-4-2
+  Answers:
+  1. 189.5
+  2. 149.95
+  3. 1.852
+  
+  Practice Question 7-5-2
+  Answers:
+  1. 332
+  2. 7.91
+  
+  Practice Quiz 7-6-1
+  Answers:
+  1. 2.3195
+  2. 1.78
+  
+  Practice Quiz 7-6-2
+  Answers:
+  1. 2.5
+  2. 1.8
+  3. 1.8
+  4. 1.8
+  5. 5.82
+  6. Active
+
+Practice Quiz 7
+  
   
