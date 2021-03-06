@@ -1,5 +1,7 @@
-# Introduction-To-Elcetronics-Coursera
+# Introduction-To-Electronics-Coursera
 Answers to Course
+
+
 
 Practice quiz 4-1-1
 Answers:
@@ -318,6 +320,7 @@ Answers:
   5. 5.82
   6. Active
 
-Practice Quiz 7
-  
+Week Quiz 7
+  [Week 7.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Elcetronics-Coursera/files/6095784/Week.7.pdf)
+
   
