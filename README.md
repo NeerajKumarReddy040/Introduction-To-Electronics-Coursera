@@ -75,25 +75,7 @@ Answers:
 7.766
 
 WEEK QUIZ 4:Answers:
-1.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[WEEK 4 QUIZ.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Elcetronics-Coursera/files/6095659/WEEK.4.QUIZ.pdf)
 
 ========================================================================================================================================================================
 
@@ -107,3 +89,105 @@ Answers:
   **  2nd Question**
  0.0583
 
+Practise Quiz 5-1-2
+Answers:
+ ** 1st Question**
+  1. 0.65
+ ** 2nd Question**
+ 1.-1.243
+ ** 3rd Question**
+ 1.8.0392
+
+Practice Quiz 5-1-3
+Answers:
+   **1st Question**
+   1. 0
+  ** 2nd Question**
+  1.19.95
+  
+ Practice Question 5-2-1
+ Answers:
+  ** 1st Question**
+  1.In an ideal full wave bridge rectifier, half of the diodes are in the ON state and half of the diodes are in the OFF state at any given time the input voltage is not zero.
+  2.The output of an ideal full wave rectifier is zero volts only when the input is zero volts.
+  3.A turn-on voltage of a diode (V_f) greater than zero can cause the output of a full wave rectifier to be zero volts even when the input is not zero volts.
+  
+ Practice Question 5-3-1
+ Answers:
+  ** 1st Question**
+ 1.-8
+ ** 2nd Question**
+  1.5
+  
+ Practice Question 5-3-2
+ Answers:
+  ** 1st Question**
+  1.Vo4
+  
+    
+ Practice Question 5-3-3
+ Answers:
+  ** 1st Question**
+  1.Vo1
+  
+ Practice Question 5-4-1
+ Answers:
+  ** 1st Question**
+  1.83.4
+  
+ Practice Question 5-4-2
+ Answers:
+  ** 1st Question**
+  1.Use a smoothing capacitor with a larger capacitance.
+  2.Use a full wave rectifier instead.
+  
+   
+ Practice Question 5-5-1
+ Answers:
+  ** 1st Question**
+  1.  6
+  ** 2nd Question**
+  1.  4
+  
+  Practice Question 5-5-2
+ Answers:
+  ** 1st Question**
+  1.![1](https://user-images.githubusercontent.com/65441025/110212293-b75bcf00-7ec0-11eb-9c27-6de281db1a6f.png)
+  2.![2](https://user-images.githubusercontent.com/65441025/110212314-d195ad00-7ec0-11eb-9354-26ca998e7208.png)
+
+  
+ Practice Question 5-6-1
+ Answers:
+  ** 1st Question**
+  1.diodes
+  2.tansformer
+  3.voltage regulator
+  4.capacitor
+  
+ Practice Question 5-6-2
+ Answers:
+  ** 1st Question**
+  1. 4.995
+   ** 2nd Question**
+  1. 4.54545
+   ** 3rd Question**
+  1. 25
+   ** 4th Question**
+  1. Zero
+  
+ Practice Question 5-7-1
+ Answers:
+  ** 1st Question**
+  1.  0.25
+    ** 2nd Question**
+  1.100
+    ** 3rd Question**
+  1. true
+    
+    WEEK 5 QUIZ
+    
+[WEEK 5 QUIZ.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Elcetronics-Coursera/files/6095658/WEEK.5.QUIZ.pdf)
+
+  =============================================================================================================================================================
+  
+  
