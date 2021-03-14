@@ -65,15 +65,63 @@ WEEK QUIZ 2 Answers:
 [WEEK 2 QUIZ.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Electronics-Coursera/files/6137103/WEEK.2.QUIZ.pdf)
 
 
+practice quiz 3-1-1
+Answers:
+1. 2
+2. 500
+
+Practice Quiz 3-1-2
+Answers:
+1. 100
+2. 1.9452
+3. 2500
+4. 2
+
+Practice Quiz 3-2-1
+Answers:
+1. 795.5
+2. 11936.62
+3. 1.59
+4. 1000
+
+Practice Quiz 3-3-1
+Answers:
+1. 1000
+2. 0.796
+3. 1000
+4. 1.596
+
+Practice Quiz: 3-4-1
+Answers:
+1. 0.087
+
+practics Quiz 3-5-1
+Answers:
+1. 434.05
+2. 12.057
+3. 1
+
+Practice Quiz 3-7-1
+Answers:
+1. 1
+2. The spectrum of spikes has two signals.
+   the third of the haromonic of the sine wave causes the distortion
+   the largest spike in the spectrum is at 1kHz.
+   
+Practice Quiz 3-7-2
+Answers:
+1. the third of the harmonic of the square wave has amplitude 1/3.
+2. a square wave has infinte number of harmonics.
+
+Practice Quiz 3-7-3
+Answers:
+1. 38.9
 
 
+WEEK 3 QUIZ ANSWERS:
+[WEEK 6 QUIZ.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Electronics-Coursera/files/6137454/WEEK.6.QUIZ.pdf)
 
-
-
-
-
-
-
+=================================================================================================================================================================================
 
 Practice quiz 4-1-1
 Answers:
