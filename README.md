@@ -115,7 +115,7 @@ Answers:
 Practice Quiz 4-4-1
 Answers:
 1. Vin>0,D1 is off and D2 is on and Vo=0V.
-2. Vin<0,D1 is off and D2 is On and Vo=0V.
+2. Vin<0,D1 is on and D2 is Off and Vo=0V.
 
 Practice Quiz 4-4-2
 Answers:
