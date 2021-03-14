@@ -119,7 +119,8 @@ Answers:
 
 
 WEEK 3 QUIZ ANSWERS:
-[WEEK 6 QUIZ.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Electronics-Coursera/files/6137454/WEEK.6.QUIZ.pdf)
+[WEEK 3 QUIZ.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Electronics-Coursera/files/6137460/WEEK.3.QUIZ.pdf)
+
 
 =================================================================================================================================================================================
 
