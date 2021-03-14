@@ -1,6 +1,77 @@
 # Introduction-To-Electronics-Coursera
 Answers to Course
 
+Practise Quiz 2-1-1
+Answers: 
+
+1.Adding a feedback connection from the output terminal to the negative 
+input terminal increases the operating range of the op amp (that is, the
+ range of input values for which the op amp does not saturate).
+ 2.An op amp is an active device that requires an external power supply to function.
+3.For an ideal op amp, i_=i+ =0.
+
+Practise Quiz 2-1-2
+Answers:
+1.    0.5
+2.   -0.75
+
+Practise Quiz 2-2-1
+Answers:
+1.  Iin=0
+2.  The op-amp is used as a buffer  to supply more power to the load than can be supplied by the source.
+
+Practise Quiz 2-2-2
+Answers:
+1.  5
+2.  500
+3.  0.01
+
+Practise Quiz 2-3-1
+Answers:
+1.   80000
+
+
+Practise Quiz 2-3-2
+Answers:
+1.  4.0
+
+Practise Quiz 2-3-3
+Answers:
+1.  15
+2.  1.65
+
+Practise Quiz 2-4-1
+Answers:
+1.  13.88
+
+Practise Quiz 2-4-2
+Answers:
+1.  5
+
+Practise Quiz 2-5-1
+Answers:
+
+1. Active filters can be cascaded without affecting their transfer functions, unlike passive filters.
+2. Active filters have their own power source.
+3. Active filters can have a DC gain greater than unity, unlike passive filters.
+
+Practise Quiz 2-5-2
+Answers:
+1.  6+6cos(314t)/3.
+
+WEEK QUIZ 2 Answers:  
+
+
+[WEEK 2 QUIZ.pdf](https://github.com/NeerajKumarReddy040/Introduction-To-Electronics-Coursera/files/6137103/WEEK.2.QUIZ.pdf)
+
+
+
+
+
+
+
+
+
 
 
 
