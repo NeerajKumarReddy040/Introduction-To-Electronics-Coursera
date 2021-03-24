@@ -420,16 +420,16 @@ Answers:
   ** 2nd Question**
   0.762
   
-  Practice Question 7-4-2
+  Practice Question 7-4-1
   Answers:
   1. 189.5
   2. 149.95
   3. 1.852
   
-  Practice Question 7-5-2
+  Practice Question 7-5-1
   Answers:
   1. 332
-  2. 7.91
+  2. 8
   
   Practice Quiz 7-6-1
   Answers:
